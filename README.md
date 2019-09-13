@@ -1,6 +1,6 @@
 # myCV-ORIGINAL
-Mi nombre es Patricia Flores
-Estudio Ciencias de la Computacion
+Mi nombre es Patricia Flores.
+Estudio Ciencias de la Computacion.
 Mis intereses son muy amplios en realidad.Me gusta  abarcar muchos temas pero uno de ellos en espcial es el Arte.
 Tengo varios proyectos relacionados con mi interes,pero tambien con la ciencia en si. 
 Por ejemplo, un proyecto con la imaginacion de la persona y la visualizacion de los sueños.
